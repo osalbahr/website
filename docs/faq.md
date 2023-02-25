@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # FAQ
 
 This is a list of some common questions/issues:
